@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Factorial
+comment1.params=value
+comment1.target=java.math.BigInteger\ factorialOf(java.lang.Integer)
+comment1.text=\n\ This\ method\ takes\ an\ Integer\ and\ returns\ the\ factorial\ of\ that\ Integer\ as\ a\n\ BigInteger.\n
+numComments=2

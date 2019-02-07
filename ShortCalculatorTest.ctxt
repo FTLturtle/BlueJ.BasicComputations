@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ShortCalculatorTest
+comment0.text=\n\ The\ test\ class\ ShortCalculatorTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment2.params=
+comment2.target=void\ testShortAddition()
+comment3.params=
+comment3.target=void\ testShortSubtraction()
+comment4.params=
+comment4.target=void\ testShortDivision()
+comment5.params=
+comment5.target=void\ testShortMultiplication()
+comment6.params=
+comment6.target=void\ testShortRemainder()
+comment7.params=
+comment7.target=void\ tearDown()
+comment7.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NormalizeAngle
+comment1.params=angle
+comment1.target=java.lang.Integer\ normalizeValueUsingModulo(java.lang.Integer)
+comment2.params=integer
+comment2.target=java.lang.Integer\ normalizeValueUsingFloorMod(java.lang.Integer)
+numComments=3

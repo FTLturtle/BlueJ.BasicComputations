@@ -1,21 +1,18 @@
- 
 
 
 public class IntegerPrinter {
 
     public String printIntegerAsBinary(int value){
-        return null;
+        return Integer.toBinaryString(value);
     }
 
     public String printIntegerAsOctal(int value){
-        return null;
+        return Integer.toOctalString(value);
     }
 
     public String printIntegerAsHexadecimal(int value){
-        return null;
+        return Integer.toHexString(value);
     }
 
-    public static void main(String[] args){
-
-    }
+    // I put the main method into its own class, called Main
 }

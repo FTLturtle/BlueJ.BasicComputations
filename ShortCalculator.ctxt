@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ShortCalculator
+comment1.params=baseValue\ difference
+comment1.target=java.lang.Short\ add(short,\ short)
+comment2.params=baseValue\ difference
+comment2.target=java.lang.Short\ subtract(short,\ short)
+comment3.params=dividend\ divisor
+comment3.target=java.lang.Short\ divide(short,\ short)
+comment4.params=multiplicand\ multiplier
+comment4.target=java.lang.Short\ multiply(short,\ short)
+comment5.params=number1\ number2
+comment5.target=java.lang.Short\ remainder(short,\ short)
+numComments=6
